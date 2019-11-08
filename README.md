@@ -8,3 +8,9 @@ cli based:
 Hourly Cron
   1. move the weather file /etc/con.hourly
   2. restart crontab
+
+
+## Development
+1. Clone the repo 
+2. run go get -v github.com/martinlindhe/notify
+3. go run weather.go
